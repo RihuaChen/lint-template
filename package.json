@@ -27,6 +27,7 @@
   "devDependencies": {
     "@umijs/fabric": "^2.4.11",
     "husky": "^4.3.7",
+    "prettier": "^2.2.1",
     "lint-staged": "^10.5.3"
   },
   "engines": {
